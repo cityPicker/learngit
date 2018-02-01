@@ -20,5 +20,6 @@ $ git reset --hard ecea			//会到版本号是ecea的版本
 $ git reflog					//查看历史命令
 
 creat a new branch is fast
-zai dev 修改了本文件
-又在master修改了
+
+现在测试在master修改提交
+yan分支没有改动
