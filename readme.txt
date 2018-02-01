@@ -19,6 +19,4 @@ $ git reset --hard HEAD~100		//回到倒数第100个版本
 $ git reset --hard ecea			//会到版本号是ecea的版本
 $ git reflog					//查看历史命令
 
-creat a new branch is fast
-zai dev 修改了本文件
-又在master修改了
+这是在yan的修改也呀提交
