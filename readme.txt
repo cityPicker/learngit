@@ -19,11 +19,4 @@ $ git reset --hard HEAD~100		//回到倒数第100个版本
 $ git reset --hard ecea			//会到版本号是ecea的版本
 $ git reflog					//查看历史命令
 
-<<<<<<< HEAD
-creat a new branch is fast
 
-现在测试在master修改提交
-yan分支没有改动
-=======
-这是在yan的修改也呀提交
->>>>>>> yan
