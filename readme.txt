@@ -24,3 +24,5 @@ creating a new branch quickly
 在dev的工作，不保存没有提交
 
 在101的工作会有dev的工作区内容，101要提交
+
+$ git stash dev的文件保存了，修改没有提交也没有出现
