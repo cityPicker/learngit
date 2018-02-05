@@ -20,3 +20,7 @@ $ git reset --hard ecea			//会到版本号是ecea的版本
 $ git reflog					//查看历史命令
 
 creating a new branch quickly
+
+在dev的工作，不保存没有提交
+
+在101的工作会有dev的工作区内容，101要提交
