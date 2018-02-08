@@ -1,2 +1,6 @@
 在learngit2中修改了文件
 xixixi
+
+在learngit2中修改了该文件
+
+dev提交合并的不同的提交
